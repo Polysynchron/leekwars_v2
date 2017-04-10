@@ -89,6 +89,13 @@
 			{\
 				background-color: #f0f0f0;\
 			}\
+			.chat-input, #url-input, input[type="color"]\
+			{\
+				background-color: rgb(30, 30, 30);\
+				color: white;\
+        			border: none;\
+        			border-radius: 8px;\
+			}\
 		');
 	}
 
